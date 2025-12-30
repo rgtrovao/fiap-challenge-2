@@ -208,7 +208,7 @@ A aplicação foi testada completamente. Todos os testes passaram com sucesso:
 ## 📝 Observações
 
 - **Analytics Service**: Requer configuração de AWS SQS para funcionar completamente. Isso não impacta a funcionalidade principal do sistema.
-- **Windows**: O projeto funciona perfeitamente no Windows usando Docker Desktop. Veja `README-WINDOWS.md` para detalhes.
+- **Windows**: O projeto funciona perfeitamente no Windows usando Docker Desktop. Apenas certifique-se de ter o Docker Desktop instalado e rodando.
 
 ## 🔗 Endpoints Principais
 
@@ -221,8 +221,7 @@ A aplicação foi testada completamente. Todos os testes passaram com sucesso:
 
 ## 📚 Documentação Adicional
 
-- `README-WINDOWS.md` - Instruções específicas para Windows
-- READMEs individuais em cada pasta de serviço para mais detalhes
+- READMEs individuais em cada pasta de serviço para mais detalhes sobre cada microserviço
 
 ## 🎉 Pronto para Usar!
 
